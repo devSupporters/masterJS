@@ -10,10 +10,14 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroBannerImg {
+  width: clamp(270px, 30%, 500px);
+}
+
+.heroBannerSub {
+  font-size: 1.3rem;
+  width: max(min(100%, 700px), 70%);
+  margin: auto;
 }
 
 .buttons {
@@ -21,3 +25,86 @@
   align-items: center;
   justify-content: center;
 }
+
+.buttons img {
+  width:30px;
+  margin-right:10px;
+}
+
+.buttons button {
+  align-items: center;
+  appearance: none;
+  margin-top: 1.5em;
+  margin-left: 1em;
+  background-color: #FCFCFD;
+  border-radius: 4px;
+  border-width: 0;
+  box-shadow: rgba(94, 28, 235, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #36395A;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 1rem;
+}
+
+.buttons button:focus {
+  box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.buttons button:hover {
+  text-decoration-line: none;
+  box-shadow: rgba(125, 69, 245, 0.4) 0 4px 8px, rgba(81, 0, 255, 0.3) 0 7px 13px -3px, #d3d3ff 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.buttons button:active {
+  box-shadow: #D6D6E7 0 3px 7px inset;
+  transform: translateY(2px);
+}
+
+@media screen and (max-width: 1300px) {
+  .heroBannerSub {
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .heroBannerSub {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .heroBannerSub {
+    width: 100%;
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .heroBannerSub {
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+

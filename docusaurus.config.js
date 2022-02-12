@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'masterJS',
-  tagline: 'masterJS is a free resource and collections related to javascript. It provides useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
+  tagline: 'free resource and collections related to javascript. It provides useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.png',
+  favicon: '/img/js-logo.png',
   organizationName: 'devSupporters', 
   projectName: 'masterJS',
 
