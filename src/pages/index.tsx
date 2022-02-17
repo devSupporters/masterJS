@@ -9,7 +9,7 @@ import HomepageFeatures from "../components/HomepageFeatures";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={clsx("hero ", styles.heroBanner)}>
       <div className="container">
         <div>
           <img className={styles.heroBannerImg} src="./img/logo.png" alt="masterJS logo image" />
