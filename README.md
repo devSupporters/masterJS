@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/75932477/152847011-b0b8747b-c48e-4ec0-963b-59b6f8305a39.png" width="400" height="150"/>
 </p>
 
-
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
