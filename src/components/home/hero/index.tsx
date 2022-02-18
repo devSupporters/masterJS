@@ -4,7 +4,7 @@ import styles from "../../../css/home/index.module.css";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 
-export default function HomepageHeader() {
+export default function HomepageHeader() : JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero toggle-background-color", styles.heroBanner)}>
