@@ -9,7 +9,7 @@ import HomepageFeatures from "../components/HomepageFeatures";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero ", styles.heroBanner)}>
+    <header className={clsx("hero toggle-background-color", styles.heroBanner)}>
       <div className="container">
         <div>
           <img className={styles.heroBannerImg} src="./img/logo.png" alt="masterJS logo image" />
@@ -38,7 +38,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+    <Layout title="Home" description={siteConfig.tagline}>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
