@@ -1,0 +1,114 @@
+{
+    "categories": [
+        {
+            "title": "Get Started",
+            "description": "we help you to get started to learn javascript, give some tips and resources",
+            "img_filename": "get-started.png"
+        },
+        {
+            "title": "Free Courses",
+            "description": "",
+            "img_filename": "free-course.png"
+        },
+        {
+            "title": "Blogs",
+            "description": "",
+            "img_filename": "blogs.png"
+        },
+        {
+            "title": "DSA",
+            "description": "",
+            "img_filename": "dsa.png"
+        },
+        {
+            "title": "Documentaions",
+            "description": "",
+            "img_filename": "docs.png"
+        },
+        {
+            "title": "Roadmaps",
+            "description": "",
+            "img_filename": "roadmaps.png"
+        },
+        {
+            "title": "Project Ideas",
+            "description": "",
+            "img_filename": "idea.png"
+        },
+        {
+            "title": "Ebooks",
+            "description": "",
+            "img_filename": "ebooks.png"
+        },
+        {
+            "title": "JavaScript Concepts",
+            "description": "",
+            "img_filename": "concept.png"
+        },
+        {
+            "title": "Pro Courses",
+            "description": "",
+            "img_filename": "pro-course"
+        },
+        {
+            "title": "Backend",
+            "description": "",
+            "img_filename": "backend.png"
+        },
+        {
+            "title": "Frontend",
+            "description": "",
+            "img_filename": "frontend.png"
+        },
+        {
+            "title": "Tools & Libraries",
+            "description": "",
+            "img_filename": "tools.png"
+        },
+        {
+            "title": "Frameworks",
+            "description": "",
+            "img_filename": "frameworks.png"
+        },
+        {
+            "title": "Development Tools",
+            "description": "",
+            "img_filename": "development.png"
+        },
+        {
+            "title": "Learning Resources",
+            "description": "",
+            "img_filename": "resources.png"
+        },
+        {
+            "title": "Security",
+            "description": "",
+            "img_filename": "security.png"
+        },
+        {
+            "title": "Performance",
+            "description": "",
+            "img_filename": "performance.png"
+        },
+        {
+            "title": "UI/UX Design",
+            "description": "",
+            "img_filename": "design.png"
+        },
+        {
+            "title": "How Web Work",
+            "description": "",
+            "img_filename": "how-web-work.png"
+        },
+        {
+            "title": "JavaScript Content Creators",
+            "description": "",
+            "img_filename": "creator.png"
+        },
+        {
+            "title": "Clean Code",
+            "description": "",
+            "img_filename": "clean.png"
+        }
+    ]
+}
