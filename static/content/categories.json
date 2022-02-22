@@ -28,7 +28,7 @@
         {
             "title": "Roadmaps",
             "description": "",
-            "img_filename": "roadmaps.png"
+            "img_filename": "roadmap.png"
         },
         {
             "title": "Project Ideas",
@@ -48,7 +48,7 @@
         {
             "title": "Pro Courses",
             "description": "",
-            "img_filename": "pro-course"
+            "img_filename": "pro-course.png"
         },
         {
             "title": "Backend",

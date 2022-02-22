@@ -13,10 +13,10 @@ export default function HomeCategories(): JSX.Element {
     }, [])
     return (
         <section className={clsx('toggle-background-color', styles.features)}>
-            <div className="container">
+            <div className={styles.title}>
                 <h1 className="text--center">Table of Content</h1>
             </div>
-            <div className="cards-container">
+            <div className={styles.categoriesTable}>
                 {cards.map((card) => (
                     <CategoryCard
                         title={card.title}
