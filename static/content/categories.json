@@ -2,27 +2,27 @@
     "categories": [
         {
             "title": "Get Started",
-            "description": "we help you to get started to learn javascript, give some tips and resources",
+            "description": "we help you to get started to learn javascript and we give some tips and resources",
             "img_filename": "get-started.png"
         },
         {
             "title": "Free Courses",
-            "description": "",
+            "description": "Free online courses and tutorials to help you learn JavaScript and web development",
             "img_filename": "free-course.png"
         },
         {
             "title": "Blogs",
-            "description": "",
+            "description": "There are plenty of good JavaScript and web development blogging websites out there.",
             "img_filename": "blogs.png"
         },
         {
             "title": "DSA",
-            "description": "",
+            "description": "resources to learn about data structure and algorithms",
             "img_filename": "dsa.png"
         },
         {
             "title": "Documentaions",
-            "description": "",
+            "description": "find useful documentations to read in Javascript and web development",
             "img_filename": "docs.png"
         },
         {
@@ -92,17 +92,17 @@
         },
         {
             "title": "UI/UX Design",
-            "description": "",
+            "description": "UI/UX design courses and resources for learning and increase productivity in UI and UX design.",
             "img_filename": "design.png"
         },
         {
             "title": "How Web Work",
-            "description": "",
+            "description": "articles and courses to help you understand how web technologies work",
             "img_filename": "how-web-work.png"
         },
         {
-            "title": "JavaScript Content Creators",
-            "description": "",
+            "title": "Content Creators",
+            "description": "Providing Javascript and web development content creators to help you meet your goals.",
             "img_filename": "creator.png"
         },
         {

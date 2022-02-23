@@ -19,6 +19,7 @@ export default function HomeCategories(): JSX.Element {
             <div className={styles.categoriesTable}>
                 {cards.map((card) => (
                     <CategoryCard
+                        key={card.title}
                         title={card.title}
                         description={card.description}
                         img_filename={card.img_filename}
