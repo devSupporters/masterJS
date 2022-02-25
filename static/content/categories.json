@@ -7,7 +7,7 @@
         },
         {
             "title": "Free Courses",
-            "description": "Free online courses and tutorials to help you learn JavaScript and web development",
+            "description": "Free online courses and tutorials to help you learn JavaScript and web development.",
             "img_filename": "free-course.png"
         },
         {
@@ -17,77 +17,72 @@
         },
         {
             "title": "DSA",
-            "description": "resources to learn about data structure and algorithms",
+            "description": "resources to learn about data structure and algorithms.",
             "img_filename": "dsa.png"
         },
         {
             "title": "Documentaions",
-            "description": "find useful documentations to read in Javascript and web development",
+            "description": "find useful documentations to read in Javascript and web development.",
             "img_filename": "docs.png"
         },
         {
             "title": "Roadmaps",
-            "description": "",
+            "description": "Take your choice from a range of useful resources on javascript roadmaps.",
             "img_filename": "roadmap.png"
         },
         {
             "title": "Project Ideas",
-            "description": "",
+            "description": "These JavaScript project ideas will boost your skill and familiarize you with JavaScript's basic concepts.",
             "img_filename": "idea.png"
         },
         {
             "title": "Ebooks",
-            "description": "",
+            "description": "A Great collection of recommended books for learning JavaScript.",
             "img_filename": "ebooks.png"
         },
         {
             "title": "JavaScript Concepts",
-            "description": "",
+            "description": "A Collection of JavaScript concepts resources every developer should know.",
             "img_filename": "concept.png"
         },
         {
             "title": "Pro Courses",
-            "description": "",
+            "description": "Best JavaScript Courses Online (Recommended by JS Developers).",
             "img_filename": "pro-course.png"
         },
         {
             "title": "Backend",
-            "description": "",
+            "description": "Useful resources for using and learn javascript in the backend",
             "img_filename": "backend.png"
         },
         {
             "title": "Frontend",
-            "description": "",
+            "description": "Collection of resources for front-end development",
             "img_filename": "frontend.png"
         },
         {
             "title": "Tools & Libraries",
-            "description": "",
+            "description": "A collection of awesome JavaScript libraries, resources and shiny things.",
             "img_filename": "tools.png"
         },
         {
             "title": "Frameworks",
-            "description": "",
+            "description": "An awesome Collection of Javascript Frameworkds in front-end and back-end.",
             "img_filename": "frameworks.png"
         },
         {
-            "title": "Development Tools",
-            "description": "",
-            "img_filename": "development.png"
-        },
-        {
             "title": "Learning Resources",
-            "description": "",
+            "description": "A collection of Top and the Best Resources To Learn Javascript",
             "img_filename": "resources.png"
         },
         {
             "title": "Security",
-            "description": "",
+            "description": "A Greate curated list of awesome Node.js Security resources.",
             "img_filename": "security.png"
         },
         {
             "title": "Performance",
-            "description": "",
+            "description": "Performance Tips and Tricks for effective development on JavaScript",
             "img_filename": "performance.png"
         },
         {
@@ -107,7 +102,7 @@
         },
         {
             "title": "Clean Code",
-            "description": "",
+            "description": "A collection of Clean Code concepts adapted for JavaScript Topics",
             "img_filename": "clean.png"
         }
     ]
