@@ -30,9 +30,9 @@ export default function HomepageHeader(): JSX.Element {
                     </Link>
 
                     <Link to="https://github.com/devSupporters/masterJS">
-                        <button className={styles.githubBtn}>
-                            <img src="/img/github.png" />
-                            GitHub
+                        <button className={styles.githubBtn} style={{wordSpacing:".1px"}}>
+                            <img src="/img/coffee.png" />
+                            Buy me a coffee
                         </button>
                     </Link>
                 </div>

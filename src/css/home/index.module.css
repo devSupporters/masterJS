@@ -97,6 +97,9 @@
         width: 100%;
         font-size: 0.9rem;
     }
+    .buttons button {
+        font-size: .7rem;
+    }
 }
 
 @media screen and (max-width: 300px) {
