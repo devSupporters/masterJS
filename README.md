@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75932477/152847011-b0b8747b-c48e-4ec0-963b-59b6f8305a39.png" width="400" height="150"/>
+<img src="https://user-images.githubusercontent.com/75932477/155848823-adea4766-cda8-46b2-a178-d1092ade13bb.png" alt="masterJS logo devSupporters alguerocode" width="500" height="150"/>
 </p>
+
 
 ## masterJS under constructions, coming soon!
 
