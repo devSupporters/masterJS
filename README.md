@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/75932477/155848823-adea4766-cda8-46b2-a178-d1092ade13bb.png" alt="masterJS logo devSupporters alguerocode" width="500" height="150"/>
 </p>
 
+[![CI](https://github.com/devSupporters/masterJS/actions/workflows/main.yml/badge.svg)](https://github.com/devSupporters/masterJS/actions/workflows/main.yml)
 
 ## masterJS under constructions, coming soon!
 
