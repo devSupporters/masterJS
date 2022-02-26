@@ -12,7 +12,10 @@ export default function HomeCategories(): JSX.Element {
             .catch((err) => console.log(err.message))
     }, [])
     return (
-        <section className={clsx('toggle-background-color', styles.features)}>
+        <section
+            className={clsx('toggle-background-color', styles.features)}
+            id="table-of-content"
+        >
             <div className={styles.title}>
                 <h1 className="text--center">Table of Content</h1>
             </div>

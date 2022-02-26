@@ -22,7 +22,7 @@ export default function HomepageHeader(): JSX.Element {
                     {siteConfig.tagline}
                 </p>
                 <div className={styles.buttons}>
-                    <Link to="/docs/intro">
+                    <Link to="#table-of-content">
                         <button className={styles.discoverBtn}>
                             <img src="/img/discover.png" />
                             Discover
