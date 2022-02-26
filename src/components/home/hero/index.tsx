@@ -29,7 +29,7 @@ export default function HomepageHeader(): JSX.Element {
                         </button>
                     </Link>
 
-                    <Link to="https://github.com/devSupporters/masterJS">
+                    <Link to="https://www.buymeacoffee.com/alhashmis28">
                         <button className={styles.githubBtn} style={{wordSpacing:".1px"}}>
                             <img src="/img/coffee.png" />
                             Buy me a coffee
