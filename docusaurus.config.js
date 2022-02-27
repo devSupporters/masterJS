@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
     title: 'masterJS',
     tagline:
-        'All-In-One, free resource and collections related to javascript. we provide useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
+        'All-In-One, free resources and collections related to javascript. we provide useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
     url: 'https://your-docusaurus-test-site.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -52,9 +52,8 @@ const config = {
                         type: 'doc',
                         docId: 'intro',
                         position: 'left',
-                        label: 'Tutorial'
+                        label: 'Resources'
                     },
-                    { to: '/blog', label: 'Blog', position: 'left' },
                     {
                         href: 'https://github.com/devSupporters/masterJS',
                         label: 'GitHub',
@@ -66,10 +65,10 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Docs',
+                        title: 'Resources',
                         items: [
                             {
-                                label: 'Tutorial',
+                                label: 'Resources',
                                 to: '/docs/intro'
                             }
                         ]
@@ -94,10 +93,6 @@ const config = {
                     {
                         title: 'More',
                         items: [
-                            {
-                                label: 'Blog',
-                                to: '/blog'
-                            },
                             {
                                 label: 'GitHub',
                                 href: 'https://github.com/devSupporters/masterJS'
