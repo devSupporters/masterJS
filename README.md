@@ -53,4 +53,9 @@ All-In-One, free resources and collections related to javascript. we provide use
 - [🖌️ UI/UX Design]()  
 - [🧬 How Web Work]()  
 - [👨‍ Content Creators]()  
-- [🧹 Clean Code]()  
+- [🧹 Clean Code]() 
+
+## 📝 License
+
+Copyright © 2021 [salah alhashmi](https://github.com/alguerocode).<br />
+This project is [Apache-2.0](https://github.com/devSupporters/masterJS/blob/master/LICENSE) licensed.
