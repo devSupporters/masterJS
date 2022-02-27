@@ -39,7 +39,6 @@ All-In-One, free resources and collections related to javascript. we provide use
 
 ## Table Of Content
 
--   [▶️ Get Started](/)
 -   [🆓 Free Courses](/)
 -   [📰 Blogs](/)
 -   [🧮 DSA](/)

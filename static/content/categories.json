@@ -1,11 +1,6 @@
 {
     "categories": [
         {
-            "title": "Get Started",
-            "description": "we help you to get started to learn javascript and we give some tips and resources",
-            "img_filename": "get-started.png"
-        },
-        {
             "title": "Free Courses",
             "description": "Free online courses and tutorials to help you learn JavaScript and web development.",
             "img_filename": "free-course.png"
