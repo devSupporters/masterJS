@@ -42,6 +42,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     background-color: var(--ifm-color-primary-lightest);
 }
 
+.intro-badges-img img{
+    margin-left:.2em;
+}
+
 html[data-theme='dark'] .toggle-background-color {
     background-color: var(--ifm-color-primary-darkest);
 }

@@ -7,13 +7,16 @@ sidebar_position: 1
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75932477/155848823-adea4766-cda8-46b2-a178-d1092ade13bb.png" alt="masterJS logo devSupporters alguerocode" width="500" height="150"/>
 </p>
-<p align="center">
+<p align="center" class="intro-badges-img">
 <img src="https://img.shields.io/github/license/devSupporters/masterJS" alt="GitHub masterJS license"/>
+
 <img src="https://img.shields.io/github/v/release/devSupporters/masterJS?include_prereleases" alt="GitHub release (latest by date including pre-releases) masterJS alguerocode"/>
+  
   <a href="https://github.com/devSupporters/masterJS/actions/workflows/main.yml">
 <img src="https://github.com/devSupporters/masterJS/actions/workflows/main.yml/badge.svg" alt="CI masterJS alguerocode"/>
   </a>
 <img src="https://img.shields.io/github/stars/devSupporters/masterJS" alt="GitHub masterJS repository stars"/>
+
 <a href="https://github.com/alguerocode">
   <img src="https://img.shields.io/github/followers/alguerocode?style=social" alt="alguerocode Github folowers"/>
 </a>
@@ -21,7 +24,7 @@ sidebar_position: 1
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/cfyQkKcd">
+  <a href="https://discord.gg/cfyQkKcd" class="intro-badges-img">
   <img width="135" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="DevSupporters discord server"/>
   </a>
   <a href="https://www.buymeacoffee.com/alhashmis28">
