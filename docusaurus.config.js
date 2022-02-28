@@ -11,7 +11,7 @@ const config = {
         'All-In-One, free resources and collections related to javascript. we provide useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
     url: 'https://your-docusaurus-test-site.com',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: '/img/js-logo.png',
     organizationName: 'devSupporters',
