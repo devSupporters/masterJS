@@ -39,7 +39,7 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            image: '/img/cover.png',
+            image: 'img/cover.png',
             metadata: [
                 {
                     name: 'title',
