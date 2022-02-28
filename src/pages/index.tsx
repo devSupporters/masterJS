@@ -34,7 +34,8 @@ export default function Home(): JSX.Element {
                     content="https://masterjs.vercel.app/img/cover.png"
                 />
 
-                <meta property="twitter:card" content="https://masterjs.vercel.app/img/cover.png" />
+                <meta property="twitter:card" content="summary_large_image" />
+                <meta property="twitter:url" content="https://masterjs.vercel.app" />
                 <meta
                     property="twitter:title"
                     content="MasterJS | All you need to master javascript"
