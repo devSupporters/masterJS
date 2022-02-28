@@ -10,7 +10,7 @@ export default function Home(): JSX.Element {
     return (
         <Fragment>
             <Head>
-                <meta name="google-site-verification" content="7xHcawb94zPEXfWPxiLl2kfl7gkGDeTZii5l64dAXs8"/>
+                <meta name="google-site-verification" content={process.env.Google_STR}/>
                 <meta
                     name="title"
                     content="MasterJS | All you need to master javascript"
