@@ -21,24 +21,19 @@
             "img_filename": "roadmap.png"
         },
         {
-            "title": "Project Ideas",
-            "description": "These JavaScript project ideas will boost your skill and familiarize you with JavaScript's basic concepts.",
-            "img_filename": "idea.png"
-        },
-        {
             "title": "Ebooks",
             "description": "A Great collection of recommended books for learning JavaScript.",
             "img_filename": "ebooks.png"
         },
         {
+            "title": "Project Ideas",
+            "description": "These JavaScript project ideas will boost your skill and familiarize you with JavaScript's basic concepts.",
+            "img_filename": "idea.png"
+        },
+        {
             "title": "JavaScript Concepts",
             "description": "A Collection of JavaScript concepts resources every developer should know.",
             "img_filename": "concept.png"
-        },
-        {
-            "title": "Pro Courses",
-            "description": "Best JavaScript Courses Online (Recommended by JS Developers).",
-            "img_filename": "pro-course.png"
         },
         {
             "title": "Backend",
@@ -54,11 +49,6 @@
             "title": "Tools & Libraries",
             "description": "A collection of awesome JavaScript libraries, resources and shiny things.",
             "img_filename": "tools.png"
-        },
-        {
-            "title": "Frameworks",
-            "description": "An awesome Collection of Javascript Frameworkds in front-end and back-end.",
-            "img_filename": "frameworks.png"
         },
         {
             "title": "Security",
@@ -79,11 +69,6 @@
             "title": "How It Work",
             "description": "articles and courses to help you understand how web and related technologies work",
             "img_filename": "how-it-work.png"
-        },
-        {
-            "title": "Content Creators",
-            "description": "Providing Javascript and web development content creators to help you meet your goals.",
-            "img_filename": "creator.png"
         },
         {
             "title": "Clean Code",

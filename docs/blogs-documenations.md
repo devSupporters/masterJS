@@ -4,12 +4,12 @@ sidebar_position: 4
 
 # Blogs and Documentations
 
-- [Blog & Articles](#blogs--articles-websites)
-- [Documenations Websites](/)
-- [Cheat sheets](/)
+- [🗞️ Blog & Articles](#%EF%B8%8F-blogs--articles-websites)
+- [📜 Documenations Websites](#-documenations-websites)
+- [📑 Cheat sheets](#-cheat-sheets)
 
 
-### Blogs & Articles Websites
+### 🗞️ Blogs & Articles Websites
 
 - [**DevDojo**](https://devdojo.com/) lets you join 46,000+ developers learn, build, and grow together.
 
@@ -21,7 +21,7 @@ sidebar_position: 4
 
 - [**Hackernoon**](https://hackernoon.com/) An Independent Tech Media Site
 
-### Documenations Websites
+### 📜 Documenations Websites
 
 - [**freeCodeCamp.org**](https://www.freecodecamp.org/) freeCodeCamp.org is a 501(c)3 non-profit organisation that can help you learn to code for free, build real-world projects, and prepare for getting your first (or nth) developer job.
 
@@ -33,7 +33,7 @@ sidebar_position: 4
 
 - [**JavaScript.info**](https://javascript.info/) Learn JavaScript from the basics to advanced topics with simple yet detailed explanations.
 
-### Cheat sheets
+### 📑 Cheat sheets
 
 - [**modern-js-cheatsheet**](https://github.com/mbeaudru/modern-js-cheatsheet) Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 

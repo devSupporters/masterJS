@@ -4,8 +4,8 @@ sidebar_position: 5
 
 # Data Structure & Algorithms
 
--   [👨‍💻 Websites & Platforms](#-websites---platforms)
--   [🎥 Youtube Vidoes](#-vidoes)
+-   [👨‍💻 Websites & Platforms](#-websites--platforms)
+-   [🎥 Youtube Vidoes](#-youtube-vidoes)
 -   [📦 GitHub Respositories](#-github-respositories)
 
 ### 👨‍💻 Websites & Platforms
@@ -37,6 +37,8 @@ sidebar_position: 5
 -   [**Dinesh Varyani – Data structures and algorithms full course**](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) This course focuses on Data structures and algorithms in Java. This doesn’t mean anyone learning other languages like C#, Javascript, C++, Python, and others can’t learn data structures from this course.
 
 ### 📦 GitHub Respositories
+
+-   [**trekhleb/javascript-algorithms**](https://github.com/trekhleb/javascript-algorithms) Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 -   [**TheAlgorithms/Javascript**](https://github.com/TheAlgorithms/Javascript) Algorithms implemented in Javascript for beginners, following best practices.
 
