@@ -9,14 +9,13 @@ const config = {
     title: 'masterJS',
     tagline:
         'All-In-One, free resources and collections related to javascript. we provide useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://masterjs.vercel.app/',
     baseUrl: '/',
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: '/img/js-logo.png',
     organizationName: 'devSupporters',
     projectName: 'masterJS',
-
     presets: [
         [
             'classic',
@@ -40,6 +39,23 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
+            image: '/img/cover.png',
+            metadata: [
+                {
+                    name: 'title',
+                    content: 'MasterJS | All you need to master javascript'
+                },
+                {
+                    name: 'description',
+                    content:
+                        'All-In-One, free resources and collections related to javascript. we provide useful links to help you learn JavaScript, web development and other related stuff along with some of the best resources available online.'
+                },
+                {
+                    name: 'keywords',
+                    content:
+                        'javascript, resources, masterjs, alguerocode, performance, security, roadmaps'
+                }
+            ],
             navbar: {
                 logo: {
                     alt: 'masterJS logo',
@@ -83,7 +99,7 @@ const config = {
                             {
                                 label: 'Discord',
                                 href: 'https://discord.gg/cfyQkKcd'
-                            },
+                            }
                         ]
                     },
                     {
