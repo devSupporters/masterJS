@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link'
 import styles from '../../../css/home/card.module.css'
 import clsx from 'clsx'
 
-export default function CategoryCard({ title, description, img_filename }) {
+export default function CategoryCard({ title, description, img_filename, path }) {
     const randomColor = useMemo(() => {
         return [
             styles.cyan,
@@ -19,7 +19,7 @@ export default function CategoryCard({ title, description, img_filename }) {
             <img src={'/img/categories/' + img_filename} alt={title} />
             <h3>{title}</h3>
             <p>{description}</p>
-            <Link to={'test'} className={clsx(styles.linkButton, randomColor)}>
+            <Link to={'/docs/' + path } className={clsx(styles.linkButton, randomColor)}>
                 start discover
             </Link>
         </div>

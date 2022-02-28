@@ -3,76 +3,91 @@
         {
             "title": "Free Courses",
             "description": "Free online courses and tutorials to help you learn JavaScript and web development.",
+            "path":"free-courses",
             "img_filename": "free-course.png"
         },
         {
             "title": "Blogs & Documentaions",
             "description": "There are plenty of good JavaScript and web development blogging and documentaion websites out there.",
+            "path":"blogs-documenations",
             "img_filename": "blogs.png"
         },
         {
             "title": "DSA",
             "description": "resources to learn about data structure and algorithms.",
+            "path":"dsa",
             "img_filename": "dsa.png"
         },
         {
             "title": "Roadmaps",
             "description": "Take your choice from a range of useful resources on javascript roadmaps.",
+            "path":"roadmaps",
             "img_filename": "roadmap.png"
         },
         {
             "title": "Ebooks",
             "description": "A Great collection of recommended books for learning JavaScript.",
+            "path":"ebooks",
             "img_filename": "ebooks.png"
         },
         {
             "title": "Project Ideas",
             "description": "These JavaScript project ideas will boost your skill and familiarize you with JavaScript's basic concepts.",
+            "path":"ideas",
             "img_filename": "idea.png"
         },
         {
             "title": "JavaScript Concepts",
             "description": "A Collection of JavaScript concepts resources every developer should know.",
+            "path":"concepts",
             "img_filename": "concept.png"
         },
         {
             "title": "Backend",
             "description": "Useful resources for using and learn javascript in the backend",
+            "path":"backend",
             "img_filename": "backend.png"
         },
         {
             "title": "Frontend",
             "description": "Collection of resources for front-end development",
+            "path":"frontend",
             "img_filename": "frontend.png"
         },
         {
             "title": "Tools & Libraries",
             "description": "A collection of awesome JavaScript libraries, resources and shiny things.",
+            "path":"tools",
             "img_filename": "tools.png"
         },
         {
             "title": "Security",
             "description": "A Greate curated list of awesome Node.js Security resources.",
+            "path":"security",
             "img_filename": "security.png"
         },
         {
             "title": "Performance",
             "description": "Performance Tips and Tricks for effective development on JavaScript",
+            "path":"performance",
             "img_filename": "performance.png"
         },
         {
             "title": "UI/UX Design",
             "description": "UI/UX design courses and resources for learning and increase productivity in UI and UX design.",
+            "path":"design",
             "img_filename": "design.png"
         },
         {
-            "title": "How It Work",
+            "title": "How Web Work",
             "description": "articles and courses to help you understand how web and related technologies work",
+            "path":"how-work",
             "img_filename": "how-it-work.png"
         },
         {
             "title": "Clean Code",
             "description": "A collection of Clean Code concepts adapted for JavaScript Topics",
+            "path":"clean-code",
             "img_filename": "clean.png"
         }
     ]

@@ -25,6 +25,7 @@ export default function HomeCategories(): JSX.Element {
                         key={card.title}
                         title={card.title}
                         description={card.description}
+                        path={card.path}
                         img_filename={card.img_filename}
                     />
                 ))}

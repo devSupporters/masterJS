@@ -42,27 +42,22 @@ All-In-One, free resources and collections related to javascript. we provide use
 
 ## Table Of Content
 
--   [🆓 Free Courses](/)
--   [📰 Blogs](/)
--   [🧮 DSA](/)
--   [📜 Documentaions](/)
--   [🗺️ Roadmaps](/)
--   [💡 Project Ideas](/)
--   [📚 Ebooks](/)
--   [🧠 JavaScript Concepts](/)
--   [🏅 Pro Courses](/)
--   [🗃️ Backend](/)
--   [🖥️ Frontend](/)
--   [⚒️ Tools & Libraries](/)
--   [🧰 Frameworks](/)
--   [👨‍💻 Learning Resources](/)
--   [🔐 Security](/)
--   [🏇 Performance](/)
--   [🖌️ UI/UX Design](/)
--   [🧬 How Web Work](/)
--   [👨‍ Content Creators](/)
--   [🧹 Clean Code](/)
-
+- [🆓 Free Courses](/docs/free-courses)
+- [📰 Blogs and Documentations](/docs/blogs-documenations)
+- [🧮 Data Structure & Algorithms](/docs/dsa)  
+- [🗺️ Roadmaps](/docs/roadmaps)  
+- [📚 Ebooks](/docs/ebooks)  
+- [💡 Project Ideas](/docs/ideas)  
+- [🧠 JavaScript Concepts](/docs/concepts)  
+- [🗃️ Backend](/docs/backend)  
+- [🖥️ Frontend](/docs/frontend)
+- [⚒️ Tools & Libraries](/docs/tools)  
+- [🔐 Security](/docs/security)  
+- [🏇 Performance](/docs/performance) `is under constructions`  
+- [🖌️ UI/UX Design](/docs/design)  
+- [🧬 How Web Work](/docs/how-work)  
+- [🧹 Clean Code](/docs/clean-code)
+ 
 ## 📝 License
 
 Copyright © 2021 [salah alhashmi](https://github.com/alguerocode).<br />
