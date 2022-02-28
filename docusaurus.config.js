@@ -78,16 +78,12 @@ const config = {
                         items: [
                             {
                                 label: 'Stack Overflow',
-                                href: 'https://stackoverflow.com/questions/tagged/docusaurus'
+                                href: 'https://leetcode.com/salah959/'
                             },
                             {
                                 label: 'Discord',
-                                href: 'https://discordapp.com/invite/docusaurus'
+                                href: 'https://discord.gg/cfyQkKcd'
                             },
-                            {
-                                label: 'Twitter',
-                                href: 'https://twitter.com/docusaurus'
-                            }
                         ]
                     },
                     {
@@ -100,7 +96,7 @@ const config = {
                         ]
                     }
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} devSupporters, Inc. Built with Docusaurus.`
+                copyright: `Copyright © ${new Date().getFullYear()} alguerocode, Inc. Built with Docusaurus.`
             },
             prism: {
                 theme: lightCodeTheme,
