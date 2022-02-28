@@ -2,46 +2,68 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75932477/155848823-adea4766-cda8-46b2-a178-d1092ade13bb.png" alt="masterJS logo devSupporters alguerocode" width="500" height="150"/>
+</p>
+<p align="center" class="intro-badges-img">
+<img src="https://img.shields.io/github/license/devSupporters/masterJS" alt="GitHub masterJS license"/>
 
-## Getting Started
+<img src="https://img.shields.io/github/v/release/devSupporters/masterJS?include_prereleases" alt="GitHub release (latest by date including pre-releases) masterJS alguerocode"/>
+  
+  <a href="https://github.com/devSupporters/masterJS/actions/workflows/main.yml">
+<img src="https://github.com/devSupporters/masterJS/actions/workflows/main.yml/badge.svg" alt="CI masterJS alguerocode"/>
+  </a>
+<img src="https://img.shields.io/github/stars/devSupporters/masterJS" alt="GitHub masterJS repository stars"/>
 
-Get started by **creating a new site**.
+<a href="https://github.com/alguerocode">
+  <img src="https://img.shields.io/github/followers/alguerocode?style=social" alt="alguerocode Github folowers"/>
+</a>
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+</p>
 
-### What you'll need
+<p align="center">
+  <a href="https://discord.gg/cfyQkKcd" class="intro-badges-img">
+  <img width="135" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="DevSupporters discord server"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/alhashmis28">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="alguerocode Buy Me A Coffee"/>
+    </a>
+<a href="https://www.producthunt.com/posts/volder?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-volder">
+<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=332017&theme=light" alt="volder - schema builder and data validation for javascript | Product Hunt" width="170" height="40" />
+</a>
+</p>
+  
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## What is masterJS
 
-## Generate a new site
+All-In-One, free resources and collections related to javascript. we provide useful links to help you  learn JavaScript, web development and other related stuff along with some of the best resources available online.
 
-Generate a new Docusaurus site using the **classic template**.
+## Table Of Content
 
-The classic template will automatically be added to your project after you run the command:
+-   [🆓 Free Courses](/)
+-   [📰 Blogs](/)
+-   [🧮 DSA](/)
+-   [📜 Documentaions](/)
+-   [🗺️ Roadmaps](/)
+-   [💡 Project Ideas](/)
+-   [📚 Ebooks](/)
+-   [🧠 JavaScript Concepts](/)
+-   [🏅 Pro Courses](/)
+-   [🗃️ Backend](/)
+-   [🖥️ Frontend](/)
+-   [⚒️ Tools & Libraries](/)
+-   [🧰 Frameworks](/)
+-   [👨‍💻 Learning Resources](/)
+-   [🔐 Security](/)
+-   [🏇 Performance](/)
+-   [🖌️ UI/UX Design](/)
+-   [🧬 How Web Work](/)
+-   [👨‍ Content Creators](/)
+-   [🧹 Clean Code](/)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 📝 License
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Copyright © 2021 [salah alhashmi](https://github.com/alguerocode).<br />
+This project is [Apache-2.0](https://github.com/devSupporters/masterJS/blob/master/LICENSE) licensed.

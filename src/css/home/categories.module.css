@@ -1,0 +1,35 @@
+title h1 {
+    font-size: 1.5rem;
+}
+
+.categoriesTable {
+    padding: 4em;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 2em;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 1200px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1100px) {
+    .categoriesTable {
+        grid-gap: 1.5em;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .categoriesTable {
+        grid-template-columns: 1fr 1fr;
+        padding: 2em;
+    }
+}
+
+
+@media screen and (max-width: 550px) {
+    .categoriesTable {
+        grid-template-columns: 1fr;
+        padding: 2em;
+    }
+}
