@@ -23,7 +23,7 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/devSupporters/masterJS'
+                    editUrl: 'https://github.com/devSupporters/masterJS/blob/main/'
                 },
                 blog: {
                     showReadingTime: true,
