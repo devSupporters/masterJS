@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/license/devSupporters/masterJS" alt="GitHub masterJS license"/>
 <img src="https://img.shields.io/github/v/release/devSupporters/masterJS?include_prereleases" alt="GitHub release (latest by date including pre-releases) masterJS alguerocode"/>
   <a href="https://github.com/devSupporters/masterJS/actions/workflows/main.yml">
-<img src="https://github.com/devSupporters/masterJS/actions/workflows/main.yml/badge.svg" alt="CI masterJS alguerocode"/>
+<img src="https://github.com/devSupporters/masterJS/actions/workflows/main.yml/badge.svg?branch=main" alt="CI masterJS alguerocode"/>
   </a>
 <img src="https://img.shields.io/github/stars/devSupporters/masterJS" alt="GitHub masterJS repository stars"/>
 <a href="https://github.com/alguerocode">
