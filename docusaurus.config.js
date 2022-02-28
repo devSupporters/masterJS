@@ -54,7 +54,12 @@ const config = {
                     name: 'keywords',
                     content:
                         'javascript, resources, masterjs, alguerocode, performance, security, roadmaps'
+                },
+                {
+                    name:"google-site-verification",
+                    content:process.env.Google_STR
                 }
+                
             ],
             navbar: {
                 logo: {
