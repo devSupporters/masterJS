@@ -272,6 +272,7 @@ No need to mention the author.
 - [Design Milk](http://design-milk.com/) is an online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology. 🌟
 - [frog](https://www.frogdesign.com/) is a global Design, innovation and strategy firm.
 - [Danish Design Centre](http://danskdesigncenter.dk/)
+- [liquidation pallets uk](https://www.topdowntrading.co.uk/))
 - [Google Design](https://design.google.com/) is a cooperative effort led by a group of designers, writers, and developers at Google. 🌟
 - [Google Art & Culture](https://www.google.com/culturalinstitute/beta/), explore collections and stories from around the world.
 - [Airbnb Design](https://airbnb.design/) is a cross-disciplinary group of experience and production designers, researchers, technologists, writers and content strategists, graphic designers, filmmakers, producers, interior architects, project managers, photographers and more. 🌟
