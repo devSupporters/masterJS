@@ -423,6 +423,7 @@ No need to mention the author.
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
+- [document printing](https://doxzoo.com/)
 
 ## Book
 
