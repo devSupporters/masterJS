@@ -110,6 +110,7 @@ No need to mention the author.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
 - [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 - [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+- [Branition Colors](https://branition.com/colors) Hand-curated collection of color palettes best fitted for branding.
 
 ## Icon and Logo
 
